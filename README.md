@@ -43,3 +43,12 @@ Dominasi kategori wisata di Jakarta.
 Distribusi asal wisatawan (lokal vs internasional).
 
 Rekomendasi top 5 tempat wisata terbaik berdasarkan rating.
+
+# **👨‍💻 Penulis**
+Nemat Mukti Putra 
+
+Data Enthusiast | Data Analyst |
+
+GitHub: https://github.com/Nemattt
+
+LinkedIn: https://linkedin.com/in/nematmuktiputra
