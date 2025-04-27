@@ -25,7 +25,7 @@ Proyek ini bertujuan untuk:
 # **🛠️ Tools dan Teknologi**
 Python (Pandas, Matplotlib, Seaborn)
 
-#**🔎 Proses Analisis**
+# **🔎 Proses Analisis**
 Data Cleaning: Memperbaiki data duplikat, missing values, dan formatting.
 
 Exploratory Data Analysis (EDA): Visualisasi data untuk memahami tren dan pola.
